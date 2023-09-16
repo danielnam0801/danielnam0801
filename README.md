@@ -46,8 +46,8 @@
 <br>
 **교내활동**
 2023 밴드부 기장
-2022 기숙사 자치회 부원
-2023 기숙사 자치회 부장
+2022 ~ 2023 학생회 부원
+
 <br>
 **추가적인 수상 내역**
 2022 교과우수상
@@ -66,8 +66,8 @@
 -----
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh7506)](https://solved.ac/danielnam0801)
-<img src="http://mazandi.herokuapp.com/api?handle=wnsgh7506&theme=warm"/>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danielnam0801)](https://solved.ac/danielnam0801)
+<img src="http://mazandi.herokuapp.com/api?handle=danielnam0801&theme=warm"/>
 
 <br>
 <br>
@@ -79,5 +79,5 @@
 
 -----
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=Kimjunho06&theme=calm)](https://github.com/Kimjunho06)
-[![Kimjunho06's github stats](https://github-readme-stats.vercel.app/api?username=Kimjunho06&show_icons=true&theme=dracula)](https://github.com/Kimjunho06)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=danielnam0801&theme=calm)](https://github.com/danielnam0801)
+[![Kimjunho06's github stats](https://github-readme-stats.vercel.app/api?username=danielnam0801&show_icons=true&theme=dracula)](https://github.com/danielnam0801)
