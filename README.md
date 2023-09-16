@@ -1,21 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=20man%20of%20thought.&fontSize=30&fontAlignY=40)
-<h4 align="middle"> 행동하는 사람처럼 생각하고, 생각하는 사람처럼 행동하라. </h4> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=70&fontAlignY=40)
+<h4 align="left"> 안녕하세요 남준성입니다! (¬‿¬) </h4> 
 
 <br>
 <br>
-<br>
-
 <h4 align="left">▶ My Information </h4> 
 
 **저의 정보입니다.**
 
 -----
 
-<img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white"> **: 김준호#4877**
+<img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white"> **: 남준성#9452**
 
-[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kimjunho06)
-[![tistory](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://junho06.tistory.com/)
-[![readme](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readme&logoColor=white)](https://junho06.tistory.com/)
+[![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danielnam0801)
+[![tistory](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://junseong0-0.tistory.com/)
+[![readme](https://img.shields.io/badge/Resume-181717?style=flat-square&logo=readme&logoColor=white)](https://junseong0-0.tistory.com/)
 
 <br>
 <br>
