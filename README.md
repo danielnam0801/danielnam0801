@@ -45,15 +45,16 @@
 2022 교내 팀프로젝트 대상
 <br>
 **교내활동**
-2023 밴드부 기장
+2022 학급 임원
+2022 동아리 기장
 2022 ~ 2023 학생회 부원
 
 <br>
 **추가적인 수상 내역**
 2022 교과우수상
-수학(1,2학기), 컴퓨터 시스템 일반(1,2학기)
+체육
 2023
-한국사
+체육
 
 <br>
 <br>
@@ -75,9 +76,6 @@
 
 <h4 align="left">▶ GitHub </h4> 
 
-**꾸준한 모습을 보이겠습니다.**
-
------
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=danielnam0801&theme=calm)](https://github.com/danielnam0801)
-[![Kimjunho06's github stats](https://github-readme-stats.vercel.app/api?username=danielnam0801&show_icons=true&theme=dracula)](https://github.com/danielnam0801)
+[![danielnam0801's github stats](https://github-readme-stats.vercel.app/api?username=danielnam0801&show_icons=true&theme=dracula)](https://github.com/danielnam0801)
