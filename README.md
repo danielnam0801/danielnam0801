@@ -26,7 +26,7 @@
 **주로 사용하는 프로그램입니다.**
 -----
 
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&amp;logo=AdobePhotoshop&amp;logoColor=white"> <img alt="VS" src="https://img.shields.io/badge/vs-5C2D91.svg?style=for-the-badge&amp;logo=VisualStudio&amp;logoColor=white"> ![unity](https://img.shields.io/badge/Unity-36566F?style=flat-square&logo=unity&logoColor=white)
+<img alt="VS" src="https://img.shields.io/badge/vs-5C2D91.svg?style=for-the-badge&amp;logo=VisualStudio&amp;logoColor=white"> ![unity](https://img.shields.io/badge/Unity-36566F?style=flat-square&logo=unity&logoColor=white)
 
 <h4 align="left">▶ Career </h4> 
 
@@ -43,13 +43,8 @@
 2022 동아리 기장  
 2022 ~ 2023 학생회 부원  
 <br>
-**추가적인 수상 내역**
-2022 ~ 2023 교과우수상 체육
 
 <h4 align="left">▶ BaekJoon</h4> 
-
-**더 높은 곳을 향해 나아가겠습니다.**
-
 -----
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=danielnam0801)](https://solved.ac/danielnam0801)
